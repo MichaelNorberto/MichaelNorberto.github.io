@@ -156,7 +156,7 @@ systems.
 
 ***
 
-**Tech Garage**, 10/2013-04/2020,
+**Tech Garage**, 12/2017-04/2020,
 
 Boca Raton, Florida
 
