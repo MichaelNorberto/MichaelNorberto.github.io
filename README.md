@@ -29,11 +29,15 @@ engineering, and cybersecurity to help improve the quality of life for people in
 
 **GPA:** 3.79
 
+***
+
 **Bachelor of Science in Computer Engineering**, December 2022
 
 **Florida Atlantic University**, Boca Raton, Florida
 
 **GPA:** 3.79
+
+***
 
 **Minor in Mathematics**, December 2022
 
@@ -41,11 +45,14 @@ engineering, and cybersecurity to help improve the quality of life for people in
 
 **GPA:** 3.79
 
+***
+
 **Minor in Cybersecurity**, December 2022
 
 **Florida Atlantic University**, Boca Raton, Florida
 
 **GPA:** 3.6
+
 
 ## Certifications and Achievements:
 
