@@ -99,40 +99,65 @@ superiors, written through technical and shareholder reports, constructive feedb
 detail
 
 
+## Relevant Experience:
 
+**Senior Engineering Design Project**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Sponsor:** NovTech, FAU
 
+**Stakeholder:** Dr. Hanqi Zhuang, zhuang@fau.edu
 
+**Job Type:** Student, 10-20 hours per week
 
-### Markdown
+**Role:** Team Leader, Python Developer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Goal:** Find and implement a quantum-safe cryptographic algorithm on an FPGA to demonstrate the usefulness and
+feasibility of post-quantum encryption for hardware systems.
 
-```markdown
-Syntax highlighted code block
+**Experience:** Lead a team to develop and implement post-quantum cryptography in Python, C, and on an FPGA. Learned
+post-quantum encryption algorithms, the NTRUEncrypt Algorithm, Shor's Algorithm, Technical Reports, communication
+with shareholders, Quartus, and basic VHDL and circuit design. The system programmed in Python was capable of
+performing polynomial mapping on a user message, generating randomized and invertible polynomials, generating Public
+Key, generating Private Key, encrypting, and decrypting.
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+**Software Engineering Project**
 
-1. Numbered
-2. List
+**Job Type:** Student, 5-10 hours per week
 
-**Bold** and _Italic_ and `Code` text
+**Role:** Team Co-Leader, Front/Back End Developer
 
-[Link](url) and ![Image](src)
-```
+**Goal:** Create a social media platform capable of hosting users and allowing them to upload text and pictures to the
+platform. Included features such as likes, daily polls, support for rare image types (tiff, WebP, etc.), account creation,
+account login, search order.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Experience:** Lead the team to implement the platform. Learned how to work with an Agile development framework,
+including Jira, Github, Git, as well as creating databases with SQL, in-depth use of PHP, HTML, CSS, and JavaScript. Also
+learned technical reports, communicating with shareholders and superiors, UML Diagrams, and system design.
 
-### Jekyll Themes
+***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelNorberto/MichaelNorberto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Relevant Coursework**
 
-### Support or Contact
+Calculus 1-3, Matrix Theory, Differential Equations, Discrete Mathematics, Cryptographic Mathematics, Introduction to
+Cyber Security, Embedded Systems, Mobile App Projects, Circuits, Introduction to Database Structures, Introduction to
+Data Structures, Design and Analysis of Algorithms.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Volunteer Experience/Community Service:
+
+**Acreage Library**, 10/2013-04/2020,
+
+Loxahatchee, Florida
+
+**Responsibilities/Accomplishments:** Created and managed crafts for children, helped patrons, created new organizational
+systems.
+
+***
+
+**Tech Garage**, 10/2013-04/2020,
+
+Boca Raton, Florida
+
+**Responsibilities/Accomplishments:** Set up computers for underprivileged children, set up activities for summer camp,
+taught Raspberry Pi, RetroPi, soldering, and basic electronics.
