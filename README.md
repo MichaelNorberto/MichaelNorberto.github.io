@@ -2,6 +2,7 @@
 
 I am a computer science and computer engineering student at Florida Atlantic University. I also have minors in mathematics and cybersecurity, and my main fields of study are cybersecurity, cryptography, Artifical Intelligence, and software development. I have worked on full-stack web development projects, as well as post-quantum cryptography projects, mobile app development projects, and have worked on several research papers. I have almost graduated from FAU. 
 
+<img style="float: left;" src="![download](https://user-images.githubusercontent.com/31261275/148721507-e4001973-dfae-46ab-a0b4-5263c9ed94ee.png)">
 
 ### Contact Information:
 
