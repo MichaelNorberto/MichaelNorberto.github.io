@@ -24,31 +24,46 @@ engineering, and cybersecurity to help improve the quality of life for people in
 ## Education:
 
 **Bachelor of Science in Computer Science**, December 2022
+
 **Florida Atlantic University**, Boca Raton, Florida,
+
 **GPA:** 3.79
 
 **Bachelor of Science in Computer Engineering**, December 2022
+
 **Florida Atlantic University**, Boca Raton, Florida
+
 **GPA:** 3.79
 
 **Minor in Mathematics**, December 2022
+
 **Florida Atlantic University**, Boca Raton, Florida
+
 **GPA:** 3.79
 
 **Minor in Cybersecurity**, December 2022
+
 **Florida Atlantic University**, Boca Raton, Florida
+
 **GPA:** 3.6
 
 ## Certifications and Achievements:
 
 **National Merit Scholar**, Spring 2021
+
 **National Merit Scholarship Corporation**
+
 Boca Raton, Florida
 
+
 **President’s List for Academic Achievement**, Summer 2021
+
 **Florida Atlantic University**, Boca Raton, Florida
 
+
+
 **Dean’s List for College of Engineering and Computer Science**, Summer 2021
+
 **Florida Atlantic University**, Boca Raton, Florida
 
 
